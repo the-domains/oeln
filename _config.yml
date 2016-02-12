@@ -1,28 +1,38 @@
-name: oeln
 favicon: null
-layout_spectrum: 0.15607672231271863
-typography_spectrum: 0.8638038337230682
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: oeln
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
-  brandStrength: 0.26180127332918346
-  lightness: 0.0216933221090585
-  saturation: 0.281698094913736
-  rhythmicContrast: 0.3731982468161732
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.281698094913736
+  brandStrength: 0.2618012733291835
+  lightness: 0.0216933221090585
+  brandColors:
+    - '#282926'
+    - '#868879'
+    - '#FCFEF3'
+  rhythmicContrast: 0.3731982468161732
+typography_spectrum: 0.9367622
+layout_spectrum: 0
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+cta:
+  bucket: null
+  version: null
+  domain: null
