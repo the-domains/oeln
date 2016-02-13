@@ -4,7 +4,7 @@
         <description><![CDATA[oeln]]></description>
         <link>https://thegrid.ai/oeln/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 13 Feb 2016 05:52:17 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Feb 2016 16:21:32 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/oeln/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -29,10 +29,10 @@
         </item>
         <item>
             <title><![CDATA[img]]></title>
-            <description><![CDATA[<h1>img</h1>]]></description>
+            <description><![CDATA[<article><h1>img</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/73444cb00df64e2ff9f97289ce24395253709ee1.png"></article>]]></description>
             <link>https://thegrid.ai/oeln/img/index.html</link>
             <guid isPermaLink="false">b3fcb642-3f9f-4dd7-9b6e-4ac32457145c</guid>
-            <pubDate>Sat, 13 Feb 2016 00:57:39 GMT</pubDate>
+            <pubDate>Sat, 13 Feb 2016 16:20:56 GMT</pubDate>
         </item>
     </channel>
 </rss>
