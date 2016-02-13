@@ -1,4 +1,8 @@
-layout_spectrum: 0
+favicon: null
+cta:
+  bucket: null
+  version: null
+  domain: null
 opengraph:
   image: null
   type: null
@@ -9,12 +13,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 purpose: []
 color:
   saturation: 0.281698094913736
@@ -26,13 +30,9 @@ color:
     - '#787664'
   rhythmicContrast: 0.3731982468161732
 typography_spectrum: 0.9367622
-cta:
-  bucket: null
-  version: null
-  domain: null
+layout_spectrum: 0
 analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: oeln
