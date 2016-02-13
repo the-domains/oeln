@@ -1,8 +1,8 @@
 favicon: null
-cta:
-  bucket: null
-  version: null
-  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
 opengraph:
   image: null
   type: null
@@ -29,10 +29,10 @@ color:
     - '#9B9988'
     - '#787664'
   rhythmicContrast: 0.3731982468161732
-typography_spectrum: 0.9367622
-layout_spectrum: 0
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+typography_spectrum: 0.5168634
+layout_spectrum: 0.8086004
+cta:
+  bucket: null
+  version: null
+  domain: null
 name: oeln
