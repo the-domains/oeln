@@ -14,7 +14,7 @@ collections:
       path: '/:title/'
 color:
   saturation: 0.281698094913736
-  brandStrength: 0
+  brandStrength: 0.4797639
   lightness: 0.0216933221090585
   brandColors:
     - '#F4F3F1'
@@ -29,8 +29,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: oeln
+favicon: null
 opengraph:
   image: null
   type: null
