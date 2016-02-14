@@ -6,12 +6,12 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 color:
   saturation: 0.281698094913736
   brandStrength: 0.4797639
@@ -29,8 +29,8 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: oeln
 favicon: null
+name: oeln
 opengraph:
   image: null
   type: null
